@@ -33,7 +33,7 @@
         "3": {
             "img": {
                 "cap1": "", 
-                "img1": "https://goo.gl/images/GfypiH"
+                "img1": "<iframe src=\"https://www.google.com/maps/d/embed?mid=1TovsTnTFpbW45LpLipz-oCVr2rbvPy4P\" width=\"640\" height=\"480\"></iframe>"
             }, 
             "main": "https://goo.gl/maps/PJEEnb5g1c72", 
             "pagenumber": "3", 
