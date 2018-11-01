@@ -35,7 +35,7 @@
                 "cap1": "", 
                 "img1": "<iframe src=\"https://www.google.com/maps/d/embed?mid=1TovsTnTFpbW45LpLipz-oCVr2rbvPy4P\" width=\"640\" height=\"480\"></iframe>"
             }, 
-            "main": "https://goo.gl/maps/PJEEnb5g1c72", 
+            "main": "https://drive.google.com/open?id=1TovsTnTFpbW45LpLipz-oCVr2rbvPy4P&usp=sharing", 
             "pagenumber": "3", 
             "text": "jioj moinj", 
             "title": "MOrrison fm", 
